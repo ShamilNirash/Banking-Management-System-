@@ -1,5 +1,6 @@
-# Banking-Management-System-
+# Banking-Management-System
 Admin username  = admin
+
 Admin password   = adm123
 
 I will create this system using C Language. I  store data using File handling.
